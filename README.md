@@ -21,18 +21,66 @@ Images will show to you how app works:
     <br>
 </figure>
 
-![this is account details page](images/four.png "SignupSecondPage")
+<figure>
+    <img src="images/four.png" alt="details" style="width:100%;">
+    <figcaption>this is account details page</figcaption>
+    <br>
+</figure>
 
+<figure>
+    <img src="images/deposit.png" alt="deposit" style="width:100%;">
+    <figcaption>this deposit operation</figcaption>
+    <br>
+</figure>
 
-![deposit operation](images/deposit.png "deposit page")
+ 
+<figure>
+    <img src="images/withdraw.png" alt="withdraw" style="width:100%;">
+    <figcaption>this withdraw operation</figcaption>
+    <br>
+</figure>
 
-![Withdraw operation](images/withdraw.png "withdraw page")
 
 ![change pin number](images/pin.png "pin change page")
 
 
-![show your current balance](images/balance.png "balance page")
+<figure>
+    <img src="images/pin.png" alt="pin" style="width:100%;">
+    <figcaption>you can change pin number </figcaption>
+    <br>
+</figure>
 
-![fast withdraw](images/fast.png "fast cash withdraw")
+ 
 
-![verify deposit operation](images/depostsuccees7.png "deposit success")
+<figure>
+    <img src="images/balance.png" alt="balance" style="width:100%;">
+    <figcaption>show your current balance</figcaption>
+    <br>
+</figure>
+
+
+ 
+
+<figure>
+    <img src="images/fast.png" alt="fast" style="width:100%;">
+    <figcaption>you can do fast cash</figcaption>
+    <br>
+</figure>
+
+
+ 
+
+
+<figure>
+    <img src="images/depostsuccees7.png" alt="verfiy deposit" style="width:100%;">
+    <figcaption>verfiy your deposit operation</figcaption>
+    <br>
+</figure>
+
+
+
+
+
+
+
+
