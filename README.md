@@ -18,3 +18,5 @@ Images will show to you how app works:
 ![Withdraw operation](images/withdraw.png "withdraw page")
 
 ![change pin number](images/pin.png "pin change page")
+
+![report about your account](images/min.png "report page")
