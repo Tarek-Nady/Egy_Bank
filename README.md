@@ -7,6 +7,9 @@ Images will show to you how app works:
 ![this is login form which if you aleardy register you can login with your card number and pint scrret number](images/first.png "Login Page")
 
 
+![report about your account](images/min.png "report page")
+
+
 ![this signup page to take your personal information in case if you press signup button](images/second.png "SignupFirtPage")
 
 
@@ -19,7 +22,6 @@ Images will show to you how app works:
 
 ![change pin number](images/pin.png "pin change page")
 
-![report about your account](images/min.png "report page")
 
 ![show your current balance](images/balance.png "balance page")
 
