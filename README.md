@@ -20,3 +20,5 @@ Images will show to you how app works:
 ![change pin number](images/pin.png "pin change page")
 
 ![report about your account](images/min.png "report page")
+
+![show your current balance](images/balance.png "balance page")
