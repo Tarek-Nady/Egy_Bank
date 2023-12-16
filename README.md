@@ -5,8 +5,8 @@ to run project in your local machine just create database schema call it with na
 you should has dependancies
 
 1- jdk at least 8 version
-2- jcalendar-tz-1.3.3-4.jar because we you JChooser class
-3- mysql-connector-j-8.1.0.jar to work with mysql database
+2- jcalendar-tz-1.3.3-4.jar because we you JChooser class you can find in my database folder
+3- mysql-connector-j-8.1.0.jar to work with mysql database you can find in my database folder
 4- confirm that install mysql in your machine  and mysql server aleardy work
 5- confirm that you install jdk in your machine
 6- 👍👍👍
