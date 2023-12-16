@@ -9,12 +9,17 @@ Images will show to you how app works:
     <br>
 </figure>
 
+<figure>
+    <img src="images/min.png" alt="min" style="width:100%;">
+    <figcaption>report about your account</figcaption>
+    <br>
+</figure>
 
-![report about your account](images/min.png "report page")
-
-
-![this signup page to take your personal information in case if you press signup button](images/second.png "SignupFirtPage")
-
+<figure>
+    <img src="images/second.png" alt="min" style="width:100%;">
+    <figcaption>this signup page to take your personal information in case if you press signup button</figcaption>
+    <br>
+</figure>
 
 ![this is account details page](images/four.png "SignupSecondPage")
 
