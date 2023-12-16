@@ -3,8 +3,10 @@ every time you open application it give you in signup process application from w
 
 Images will show to you how app works:
  
-
-![this is login form which if you aleardy register you can login with your card number and pint scrret number](images/first.png "Login Page")
+<figure>
+    <img src="images/first.png" alt="login" style="width:100%;">
+    <figcaption>this is login form which if you aleardy register you can login with your card number and pint scrret number</figcaption>
+</figure>
 
 
 ![report about your account](images/min.png "report page")
