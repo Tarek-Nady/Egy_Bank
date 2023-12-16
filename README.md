@@ -14,3 +14,5 @@ Images will show to you how app works:
 
 
 ![deposit operation](images/deposit.png "deposit page")
+
+![Withdraw operation](images/withdraw.png "withdraw page")
