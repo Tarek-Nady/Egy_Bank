@@ -22,3 +22,5 @@ Images will show to you how app works:
 ![report about your account](images/min.png "report page")
 
 ![show your current balance](images/balance.png "balance page")
+
+![fast withdraw](images/min.png "fast cash withdraw")
