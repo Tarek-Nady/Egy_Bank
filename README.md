@@ -24,3 +24,5 @@ Images will show to you how app works:
 ![show your current balance](images/balance.png "balance page")
 
 ![fast withdraw](images/fast.png "fast cash withdraw")
+
+![verify deposit operation](images/depostsuccees7.png "deposit success")
