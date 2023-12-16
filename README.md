@@ -6,6 +6,7 @@ Images will show to you how app works:
 <figure>
     <img src="images/first.png" alt="login" style="width:100%;">
     <figcaption>this is login form which if you aleardy register you can login with your card number and pint scrret number</figcaption>
+    <br>
 </figure>
 
 
