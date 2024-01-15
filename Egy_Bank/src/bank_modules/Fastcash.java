@@ -14,6 +14,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
+/**
+ * Class representing the Fast Cash module in a banking application.
+ * This class extends JFrame and implements ActionListener for handling GUI events.
+ */
 public class Fastcash extends JFrame implements ActionListener{
 	JButton deposit,withdrawl,ministatement,pinchange,fastcash,balanceenquiry,exit;
 	
@@ -90,6 +94,9 @@ public class Fastcash extends JFrame implements ActionListener{
 			int len = amount.length();
 			amount = amount.substring(0,len-4);
 			DbConnection conn = new DbConnection();
+	        // Database operations to check balance and perform withdrawal
+                // Display messages for successful or failed transactions
+                // Open Transactions screen upon completion
 			try {
 				ResultSet rs = conn.s.executeQuery("select * from bank where pin = '"+pinnumber+"'");
 				int balance = 0;
